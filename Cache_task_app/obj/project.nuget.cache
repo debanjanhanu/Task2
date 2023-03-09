@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hC7BhpsDaJkaPNuh7SWYVe+LX1jUvRAq4SP5ugPeKuSoDyPz1mHUPjoGqGswTfxAIAEMz0e+a0BWaW9FRiaTtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Ddrive\\Projects\\Cache_task_app\\Cache_task_app\\Cache_task_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DebanjanRudra\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
